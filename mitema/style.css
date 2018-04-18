@@ -504,6 +504,7 @@ nav ul li:hover{
     padding: 30px;
     margin: auto;
     margin-bottom: 30px;
+    display: flex;
 }
 
 .post-index{
@@ -511,7 +512,13 @@ nav ul li:hover{
     margin: auto;
 }
 
+#section-post{
+    width:80%;
+}
 
+#sidebar{
+    width:20%;
+}
 
 
 /*=====================================*/
